@@ -1,3 +1,5 @@
+'use strict'
+
 const preloader = document.querySelector('.preloader');
 
 window.addEventListener('load', function () {
